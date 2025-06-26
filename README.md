@@ -17,12 +17,8 @@ Transaction details (date, location, and sales amount)
 Data preprocessing involved handling missing values, correcting inconsistent data formats, and ensuring accuracy for analysis. The data was then organized to facilitate in-depth exploration and visualization
 
 ## Library Used
-. Numpy
-
-. Pandas
-
-. Matplotlib
-
-. Seaborn
-
-. Sklearn
+1) Numpy
+2) Pandas
+3) Matplotlib
+4) Seaborn
+5) Sklearn
