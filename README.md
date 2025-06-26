@@ -41,3 +41,11 @@ shop.hist(bins = 28, figsize=(15, 10), color ='olive')
 plt.show()
 
 ![Image](https://github.com/user-attachments/assets/f090e02b-644d-4055-917e-18125b1de087)
+
+plotting in a pie-chart
+plt.pie(total,labels=i,autopct='%1.0f%%',shadow=True,explode=[0,0.1])
+plt.title('PURCHASED AMOUNT BY GENDER',fontsize=20,fontweight='bold')
+
+plt.show()
+
+![Image](https://github.com/user-attachments/assets/e02876b5-976e-4bba-8b19-305930cf0971)
